@@ -1,0 +1,17 @@
+{
+  "itemGroup.acmTab": "ACM",
+  "item.examplemod.phone": "Phone",
+  "block.examplemod.skittles_block" : "Skittles Ore",
+
+  "item.examplemod.green_apple_skittles": "Green Apple Skittles,",
+  "item.examplemod.skittles": "Skittles",
+
+  "item.examplemod.hamburger": "Hamburger",
+
+  "item.examplemod.skittle_helmet": "Skittle Helmet",
+  "item.examplemod.skittle_chestplate": "Skittle Chestplate",
+  "item.examplemod.skittle_leggings": "Skittle Leggings",
+  "item.examplemod.skittle_boots": "Skittle Boots",
+
+  "item.examplemod.skittle_sword": "Skittles Sword"
+}
